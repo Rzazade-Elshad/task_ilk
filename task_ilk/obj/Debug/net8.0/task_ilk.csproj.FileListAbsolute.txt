@@ -1,0 +1,14 @@
+C:\Users\rzaza\source\repos\task_ilk\task_ilk\obj\Debug\net8.0\task_ilk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzaza\source\repos\task_ilk\task_ilk\obj\Debug\net8.0\task_ilk.AssemblyInfoInputs.cache
+C:\Users\rzaza\source\repos\task_ilk\task_ilk\obj\Debug\net8.0\task_ilk.AssemblyInfo.cs
+C:\Users\rzaza\source\repos\task_ilk\task_ilk\obj\Debug\net8.0\task_ilk.csproj.CoreCompileInputs.cache
+C:\Users\rzaza\source\repos\task_ilk\task_ilk\bin\Debug\net8.0\task_ilk.exe
+C:\Users\rzaza\source\repos\task_ilk\task_ilk\bin\Debug\net8.0\task_ilk.deps.json
+C:\Users\rzaza\source\repos\task_ilk\task_ilk\bin\Debug\net8.0\task_ilk.runtimeconfig.json
+C:\Users\rzaza\source\repos\task_ilk\task_ilk\bin\Debug\net8.0\task_ilk.dll
+C:\Users\rzaza\source\repos\task_ilk\task_ilk\bin\Debug\net8.0\task_ilk.pdb
+C:\Users\rzaza\source\repos\task_ilk\task_ilk\obj\Debug\net8.0\task_ilk.dll
+C:\Users\rzaza\source\repos\task_ilk\task_ilk\obj\Debug\net8.0\refint\task_ilk.dll
+C:\Users\rzaza\source\repos\task_ilk\task_ilk\obj\Debug\net8.0\task_ilk.pdb
+C:\Users\rzaza\source\repos\task_ilk\task_ilk\obj\Debug\net8.0\task_ilk.genruntimeconfig.cache
+C:\Users\rzaza\source\repos\task_ilk\task_ilk\obj\Debug\net8.0\ref\task_ilk.dll
